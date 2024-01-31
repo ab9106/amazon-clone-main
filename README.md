@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+![sscreenshot](https://github.com/ab9106/amazon-clone-main/blob/main/Screenshot%202024-02-01%20012419.png)
 ## Available Scripts
 
 In the project directory, you can run:
